@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prash-123
+- 👋 Hi, I’m Prashant Shukla
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning to implement data structures in problems 
 - 💞️ I’m looking to collaborate on ...
