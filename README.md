@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prashant Shukla
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning to implement data structures in problems 
-- 💞️ I’m looking to collaborate on ... machine learning projects
+- 💞️ I’m looking to collaborate on ... web development, machine learning projects
 - 📫 How to reach me ... shuklaprashant242@gmail.com
 
 <!---
